@@ -1,8 +1,5 @@
-# Laravel-Setup
+# My workspace configurations about:
 
-- Collective
-- Debugbar
-- Flash
-- Self diagnosis
-- Query detector
-- X-Ray
+- Sublime
+- VSCode
+- Laravel
