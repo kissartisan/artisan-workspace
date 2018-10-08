@@ -1,5 +1,5 @@
 # My workspace configurations about:
 
-- Sublime
+- *Sublime
 - VSCode
 - Laravel
