@@ -38,7 +38,7 @@ alias gstl='git stash list'
 alias gstp='git stash pop'
 alias gsts='git stash save'
 
-function lazygit() {
+function gitartisan() {
     git add .
     git commit -a -m "$1"
     git push
