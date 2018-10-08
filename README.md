@@ -2,4 +2,5 @@
 
 - Sublime
 - VSCode
+- Git
 - Laravel
