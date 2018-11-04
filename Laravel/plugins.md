@@ -5,3 +5,4 @@
 - Query detector
 - X-Ray
 - *Eloquent Has Many Deep
+- [Telescope](https://packagist.org/packages/laravel/telescope)
