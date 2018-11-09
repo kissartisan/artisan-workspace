@@ -1,0 +1,20 @@
+- Advanced New File
+- Bracket Pair Colorizer
+- Gitlens
+- PHP Intelephense
+- PHP Namesspace Resolver
+- PHP CS Fixer
+- PHP DocBlocker
+- Laravel Blade Snippets
+- Vetur
+- Docker
+- DotENV
+- Snippet Creator
+- File Utils
+- Panda Theme
+- Laravel Theme
+- Github Light Theme
+- Palenight Theme
+- Material Theme
+- Slime Theme
+- Vue Theme
