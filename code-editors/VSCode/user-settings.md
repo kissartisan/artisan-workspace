@@ -1,5 +1,5 @@
 	{
-	    "workbench.colorTheme": "Panda Syntax",
+	    "workbench.colorTheme": "Palenight Theme",
 	    "explorer.openEditors.visible": 0,
 	    "workbench.activityBar.visible": false,
 	    "editor.lineHeight": 40,
@@ -27,5 +27,13 @@
 	  "editor.hideCursorInOverviewRuler": true,
 	  "php-cs-fixer.onsave": true,
 	  "editor.cursorBlinking": "phase",
-	  "editor.fontWeight": "800"
+	  "editor.fontWeight": "800",
+	  "terminal.integrated.rendererType": "dom",
+	  "javascript.updateImportsOnFileMove.enabled": "always",
+	  "search.location": "panel",
+	  "window.titleBarStyle": "custom",
+	  "workbench.colorCustomizations": {
+	    "terminal.foreground": "#EE82EE",
+	    "terminal.background": "#31364A"
+	  }
 	}
