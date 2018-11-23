@@ -32,8 +32,12 @@
 	  "javascript.updateImportsOnFileMove.enabled": "always",
 	  "search.location": "panel",
 	  "window.titleBarStyle": "custom",
-	  "workbench.colorCustomizations": {
-	    "terminal.foreground": "#EE82EE",
-	    "terminal.background": "#31364A"
-	  }
+	  "gitProjectManager.baseProjectsFolders": [
+	    "/home/reymark/public_html/GET-Intranet-System/www",
+	    "/home/reymark/public_html/ponderosa-project/ponderosa",
+	    "/home/reymark/public_html/ponderosa-project/ponderosa_app"
+	  ],
+	  "sync.gist": "a554cf2d962058867dfb811376825c8f",
+	  "editor.minimap.enabled": false
+
 	}
