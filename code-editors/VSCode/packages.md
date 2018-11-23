@@ -1,11 +1,16 @@
 - Advanced New File
 - Bracket Pair Colorizer
 - Gitlens
+- Git History
+- Git Project Manager
 - PHP Intelephense
 - PHP Namesspace Resolver
 - PHP CS Fixer
 - PHP DocBlocker
 - Laravel Blade Snippets
+- Auto CLose Tag
+- Beautify
+- Settings Sync
 - Vetur
 - Docker
 - DotENV
