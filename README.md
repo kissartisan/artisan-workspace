@@ -3,5 +3,6 @@
 - Sublime
 - VSCode
 - Git
+- Operating Systems
 - Laravel
 - Chrome
