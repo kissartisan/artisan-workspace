@@ -41,3 +41,9 @@
         git commit -a -m "$1"
         git push
     }
+ 
+# Artisan Aliases
+    alias art='php artisan'
+    
+# Terminal Aliases
+    alias c='clear'
