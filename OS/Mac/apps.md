@@ -1,3 +1,6 @@
+# Homebrew
+- https://brew.sh/
+
 # Terminal multiplexer
 - https://github.com/tmux/tmux/wiki
 
