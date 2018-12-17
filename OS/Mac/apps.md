@@ -1,4 +1,4 @@
-# Termuinal multiplexer
+# Terminal multiplexer
 - https://github.com/tmux/tmux/wiki
 
 # Terminal replacement
