@@ -22,6 +22,7 @@
 
 # Retrieve files using HTTP, HTTPS, FTP and FTPS
 - https://www.gnu.org/software/wget/
+- brew install wget
 
 # Alternative for NPM = Yarn
 - https://yarnpkg.com/lang/en/docs/install/#mac-stable
