@@ -11,7 +11,8 @@
 
 # Terminal replacement
 - https://www.iterm2.com/
-- Set font size to 16px
+- Profiles > Text > Change font > Set size to 16px
+- Profiles > Text > Change font > Set vertical character spacing to 150%
 
 # Terminal multiplexer
 - https://github.com/tmux/tmux/wiki
