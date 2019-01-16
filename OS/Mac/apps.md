@@ -15,6 +15,7 @@
 
 # Terminal multiplexer
 - https://github.com/tmux/tmux/wiki
+- brew install tmux
 
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
