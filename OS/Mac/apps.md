@@ -1,3 +1,7 @@
+# Homebrew
+- https://brew.sh/
+
+
 # Moving and Resizing windows
 - https://www.spectacleapp.com/
 
@@ -10,9 +14,6 @@
 
 # Terminal multiplexer
 - https://github.com/tmux/tmux/wiki
-
-# Homebrew
-- https://brew.sh/
 
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
