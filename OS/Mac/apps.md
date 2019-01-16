@@ -1,7 +1,6 @@
 # Homebrew
 - https://brew.sh/
 
-
 # Moving and Resizing windows
 - https://www.spectacleapp.com/
 
@@ -25,3 +24,4 @@
 
 # Alternative for NPM = Yarn
 - https://yarnpkg.com/lang/en/docs/install/#mac-stable
+- brew install yarn
