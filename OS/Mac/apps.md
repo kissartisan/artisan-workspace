@@ -9,6 +9,7 @@
 
 # Terminal replacement
 - https://www.iterm2.com/
+- Set font size to 16px
 
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
