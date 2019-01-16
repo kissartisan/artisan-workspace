@@ -1,3 +1,6 @@
+# Moving and Resizing windows
+- https://www.spectacleapp.com/
+
 # Homebrew
 - https://brew.sh/
 
@@ -13,8 +16,6 @@
 # Framework for managing ZSH configurations
 - https://github.com/robbyrussell/oh-my-zsh
 
-# Moving and Resizing windows
-- https://www.spectacleapp.com/
 
 # Retrieve files using HTTP, HTTPS, FTP and FTPS
 - https://www.gnu.org/software/wget/
