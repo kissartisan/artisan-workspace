@@ -7,6 +7,7 @@
 
 # Framework for managing ZSH configurations
 - https://github.com/robbyrussell/oh-my-zsh
+- zsh/bash aliases: https://github.com/reymark-torres/Artisan-Workspace/blob/master/Git/aliases.md
 
 # Terminal replacement
 - https://www.iterm2.com/
