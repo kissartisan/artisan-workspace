@@ -50,3 +50,5 @@
     
 # Docker Aliases
     alias d-c='docker-compose'
+    alias de='winpty docker exec'
+    alias d='winpty docker'
