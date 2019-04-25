@@ -47,3 +47,6 @@
     
 # Terminal Aliases
     alias c='clear'
+    
+# Docker Aliases
+    alias d-c='docker-compose'
