@@ -1,15 +1,12 @@
 - Package Control
-- 10% Too Dull for My Tastes Color Scheme
 - AdvancedNewFile
 - Alignment
 - Auto Close HTML Tags
 - BracketHighlighter
 - Color Highlighter
 - ColorPicker
-- Colorsublime
 - DocBlockr
 - Emmet
-- Git
 - GitGutter
 - Laravel Blade Highlighter
 - Materialize
@@ -18,11 +15,9 @@
 - PHP Getters and Setters
 - Project Manager
 - Sass
-- SassBeautify
 - SideBarEnhancements
 - SublimeLinter
 - SublimeLinter-php
 - View in Browser
-- VUE Formatter
 - VueJS Complete Package
 
