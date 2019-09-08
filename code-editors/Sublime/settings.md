@@ -38,7 +38,6 @@
             120.2,
             120.3
         ],
-        "save_on_focus_lost": true,
         "show_panel_on_build": true,
         "theme": "Agila Classic.sublime-theme",
         "translate_tabs_to_spaces": true,
