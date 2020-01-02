@@ -2,7 +2,7 @@
 - Bracket Pair Colorizer
 - Gitlens
 - Git History
-- Git Project Manager
+- Project Manager
 - PHP Intelephense
 - PHP Namesspace Resolver
 - PHP CS Fixer
