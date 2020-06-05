@@ -3,6 +3,7 @@
 
 # Moving and Resizing windows
 - https://www.spectacleapp.com/
+- https://rectangleapp.com/
 
 # Framework for managing ZSH configurations
 - https://github.com/robbyrussell/oh-my-zsh
@@ -28,5 +29,3 @@
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
 
-# Move and Resize Windows
-- https://rectangleapp.com/
