@@ -27,3 +27,6 @@
 
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
+
+# Move and Resize Windows
+- https://rectangleapp.com/
