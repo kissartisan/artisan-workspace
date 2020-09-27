@@ -2,7 +2,6 @@
 - https://brew.sh/
 
 # Moving and Resizing windows
-- https://www.spectacleapp.com/
 - https://rectangleapp.com/
 
 # Framework for managing ZSH configurations
