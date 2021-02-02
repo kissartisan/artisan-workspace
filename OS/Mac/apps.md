@@ -30,3 +30,6 @@
 
 # Productivity app for MacOS (like an enhanced spotlight search)
 - https://www.alfredapp.com/
+
+# Color picker
+https://colorsnapper.com/
