@@ -28,3 +28,5 @@
 # Vim text editor for MacOS
 - https://macvim-dev.github.io/macvim/
 
+# Productivity app for MacOS (like an enhanced spotlight search)
+- https://www.alfredapp.com/
