@@ -33,3 +33,9 @@ php -r "unlink('composer-setup.php');"
 ```
   sudo mv composer.phar /usr/local/bin/composer
 ```
+
+5. Install `laravel` command  using Composer
+
+```
+  composer global require laravel/installer
+```
