@@ -1,4 +1,4 @@
-## New Machine Rapid Setup
+## New Machine Rapid Setup for Laravel
 
 1. Install Homebrew
 
@@ -13,3 +13,8 @@
     eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
+3. Install PHP
+
+```
+  brew install php
+```
