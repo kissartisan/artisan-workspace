@@ -28,14 +28,27 @@ php composer-setup.php
 php -r "unlink('composer-setup.php');"
 ```
 
-4. Move Composer to `PATH`
+5. Move Composer to `PATH`
 
 ```
   sudo mv composer.phar /usr/local/bin/composer
 ```
 
-5. Install `laravel` command  using Composer
+6. Install `laravel` command  using Composer
 
 ```
   composer global require laravel/installer
+```
+
+
+7. Expand `~` on `PATH` for Composer
+
+```
+  export PATH="$HOME/.composer/vendor/bin:$PATH"
+```
+
+8. Create laravel app
+
+```
+  laravel new x-artisan
 ```
