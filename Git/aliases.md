@@ -36,7 +36,7 @@
     alias gstp='git stash pop'
     alias gsts='git stash save'
 
-    function gitflow() {
+    function push() {
         git add .
         git commit -a -m "$1"
         git push
